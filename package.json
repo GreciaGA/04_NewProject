@@ -1,0 +1,23 @@
+{
+  "name": "04_NewProject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GreciaGA/04_NewProject.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GreciaGA/04_NewProject/issues"
+  },
+  "homepage": "https://github.com/GreciaGA/04_NewProject#readme",
+  "devDependencies": {
+    "jest": "^29.2.2"
+  }
+}
